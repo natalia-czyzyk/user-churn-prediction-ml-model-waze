@@ -14,13 +14,6 @@ This project aims to reduce user churn for Waze by developing a machine learning
 3. **Model Development & Evaluation** – Build and refine the churn prediction model.
 4. **Implementation & Reporting** – Deploy the model and share key insights.
 
-## Roles & Responsibilities
-- **Data Science Team** – Data analysis, model development, and evaluation.
-- **Project Manager** – Coordination and milestone tracking.
-- **Business Analysts** – Insight interpretation and strategy alignment.
-- **Engineers** – Model deployment and system integration.
-- **Leadership** – Decision-making and strategic oversight.
-
 ## Workflow & Tools
 - **Version Control:** Git & GitHub for collaboration.
 - **Data Processing:** Python (Pandas, NumPy), SQL.
