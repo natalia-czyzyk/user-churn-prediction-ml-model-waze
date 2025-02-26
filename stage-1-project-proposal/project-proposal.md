@@ -1,5 +1,5 @@
 # A machine learning model to predict user churn in Waze company
-## Stage 1: Project proposal
+## Project proposal
 
 ## Overview
 The goal of this project is to reduce user churn for Waze by developing a machine learning model. This model will help identify factors contributing to churn and detect potential churn risks early.
