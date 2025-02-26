@@ -1,4 +1,5 @@
-# Global Project Document
+# A machine learning model to predict user churn in Waze company
+## Global project document
 
 ## Project Overview
 This project aims to reduce user churn for Waze by developing a machine learning model to identify churn risk factors and provide actionable insights.
